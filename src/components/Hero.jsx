@@ -14,7 +14,7 @@ const Hero = () => {
         </div>
         <div
           className="svg-hero"
-          style={{ height: "150px", overflow: "hidden" }}
+          style={{ height: "200px", overflow: "hidden" }}
         >
           <SvgHero />
         </div>
